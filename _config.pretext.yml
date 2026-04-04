@@ -1,0 +1,7 @@
+comments:
+  provider: giscus
+  giscus:
+    repo: "YingmuZ/lulu-blog-pretext"
+    repo_id: "R_kgDOR5mUgQ"
+    category: "Announcements"
+    category_id: "DIC_kwDOR5mUgc4C6CLi"
