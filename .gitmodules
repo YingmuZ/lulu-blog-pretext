@@ -1,0 +1,3 @@
+[submodule "themes/pretext"]
+	path = themes/pretext
+	url = git@github.com:YingmuZ/hexo-theme-pretext-with-ascii-bunny.git
